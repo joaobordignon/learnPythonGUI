@@ -2,7 +2,7 @@ import tkinter as tk
 from PIL import Image, ImageTk
 import os
 
-def create_main_window(background_path, window_title="Life Stocks 2001"):
+def create_main_window(background_path, window_title="Retro Computer Simulator"):
     root = tk.Tk()
     root.title(window_title)
 
